@@ -1,0 +1,10 @@
+String = 'x'
+Number = 1
+float = 1.2
+integer = 1
+hash = {}
+array = []
+ternary = true ? true: false
+symbols = :symbo
+null = nill
+boolean = false
