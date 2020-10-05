@@ -49,7 +49,7 @@ first_key.frozen? # => true
 #comparison operations (Sets like comparison)
 h1 = {foo: 0, bar: 1}
 h2 = {foo: 0, bar: 1, baz: 2}
-h1 < h2 # => true
+h1 < h2 # => true h1 is Subset of h2
 h2 < h1 # => false
 h1 < h1 # => false
 

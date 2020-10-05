@@ -8,6 +8,10 @@ unless condition
     # ...
 end
 
+#UNtil is false
+until condition_is_false
+    # do something
+end
 #Else
 if stock < 1
     puts "Sorry we are out of stock!"
