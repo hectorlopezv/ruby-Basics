@@ -1,0 +1,6 @@
+Jim, Sales
+HIdy, Sales
+Kelly, Customer Service
+Creed, Quality Assurance
+Michael, Manager
+Hector, BackEnd Programmer
